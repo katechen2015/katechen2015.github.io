@@ -12,7 +12,3 @@ permalink: /About/
 
 
 
-
-<center>
-    <p><img src="/images/avatar.png" align="center"></p>
-</center>
